@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum16unknuoft_0201.png"; bbox 0 0 2430 4022; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 495 1483 1972 1593">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 495 1483 1972 1593">
+     <span class='ocr_line' id='line_1_1' title="bbox 495 1483 1972 1593; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 495 1483 669 1589; x_wconf 68' lang='lat' dir='ltr'><strong>0ss</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 703 1483 741 1589; x_wconf 79' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_3' title='bbox 775 1484 846 1590; x_wconf 75' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_4' title='bbox 879 1483 956 1591; x_wconf 86' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_5' title='bbox 987 1485 1190 1591; x_wconf 66' lang='lat'>&#39;1¹11</span> <span class='ocrx_word' id='word_1_6' title='bbox 1290 1484 1543 1592; x_wconf 64' lang='lat' dir='ltr'><strong>CAR</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1579 1485 1972 1593; x_wconf 68' lang='lat' dir='ltr'><strong>MINA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 575 1908 1892 2200">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 575 1908 1892 2200">
+     <span class='ocr_line' id='line_1_2' title="bbox 1015 1908 1439 1954; baseline 0.002 -2"><span class='ocrx_word' id='word_1_8' title='bbox 1015 1908 1439 1954; x_wconf 54' lang='lat' dir='ltr'><strong>REPENSUIT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 575 2154 1892 2200; baseline 0.002 -3"><span class='ocrx_word' id='word_1_9' title='bbox 575 2154 646 2197; x_wconf 67' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 690 2155 1179 2198; x_wconf 55' lang='lat' dir='ltr'><strong>COMMEN&#39;I&#39;ARN)</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1221 2155 1485 2198; x_wconf 62' lang='lat' dir='ltr'><strong>(‘1{1T1(‘‹›</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1531 2156 1892 2200; x_wconf 50' lang='lat' dir='ltr'><strong>le&#39;sRLuUT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 866 2395 1583 2462">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 866 2395 1583 2462">
+     <span class='ocr_line' id='line_1_4' title="bbox 866 2395 1583 2462; baseline 0.003 -3"><span class='ocrx_word' id='word_1_13' title='bbox 866 2395 1264 2461; x_wconf 59' lang='lat' dir='ltr'><strong>Rosslxsm&#39;</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1338 2395 1583 2462; x_wconf 66' lang='lat' dir='ltr'>ELLLS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

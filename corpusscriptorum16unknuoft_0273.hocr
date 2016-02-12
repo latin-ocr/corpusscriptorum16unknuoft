@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum16unknuoft_0273.png"; bbox 0 0 2430 4022; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 466 1218 1986 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 466 1218 1986 1332">
+     <span class='ocr_line' id='line_1_1' title="bbox 466 1218 1986 1332; baseline -0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 466 1220 1131 1332; x_wconf 78' lang='lat' dir='ltr'><strong>PAULINI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1246 1218 1986 1327; x_wconf 79' lang='lat' dir='ltr'><strong>PELLAEI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 838 1600 1612 1679">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 838 1600 1612 1679">
+     <span class='ocr_line' id='line_1_2' title="bbox 838 1600 1612 1679; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 838 1600 1612 1679; x_wconf 77' lang='lat' dir='ltr'><strong>EUOHARISTICOS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1019 2037 1444 2084">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1019 2037 1444 2084">
+     <span class='ocr_line' id='line_1_3' title="bbox 1019 2037 1444 2084; baseline -0.002 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1019 2037 1444 2084; x_wconf 76' lang='lat' dir='ltr'>RECENSUIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 568 2247 1891 2294">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 568 2247 1891 2294">
+     <span class='ocr_line' id='line_1_4' title="bbox 568 2247 1891 2294; baseline -0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 568 2249 648 2294; x_wconf 75' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 689 2248 1178 2294; x_wconf 75' lang='lat' dir='ltr'>COMMENTARIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1220 2247 1483 2293; x_wconf 74' lang='lat' dir='ltr'>CRITICO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1523 2247 1891 2293; x_wconf 62' lang='lat' dir='ltr'>INSTRUXIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 757 2451 1710 2519">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 757 2451 1710 2519">
+     <span class='ocr_line' id='line_1_5' title="bbox 757 2451 1710 2519; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 757 2452 1244 2519; x_wconf 75' lang='lat' dir='ltr'><strong>GUILELMUS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1298 2452 1637 2519; x_wconf 69' lang='lat' dir='ltr'>BRANDE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1655 2451 1710 2518; x_wconf 77' lang='lat' dir='ltr'>S.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
